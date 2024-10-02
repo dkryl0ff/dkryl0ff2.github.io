@@ -44,10 +44,12 @@ footer {
 	transition: border-bottom 0.4s ease;
 }
 
-ul {
+ul, li{
+	padding: 0;
+	text-decoration: none;
 	list-style: none;
-	padding-right: 40px;
-
+	justify-content: left;
+	text-align: left;
 }
 
 .name {
