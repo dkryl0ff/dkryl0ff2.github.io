@@ -8,11 +8,6 @@ body {
 }
 
 
-
-.head__item {
-	color: #7c7c7c;
-}
-
 .header__nav {
 	display: flex;
 	justify-content: space-between;
@@ -102,6 +97,3 @@ a {
 	text-decoration: none;
 }
 
-header {
-	background-color: #7c7c7c;
-}
